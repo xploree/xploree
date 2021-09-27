@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**sirvibegodlol/sirvibegodlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I am Nick
 
-Here are some ideas to get you started:
+A C#/C++ Developer who works on Desktop Applications and tools for Modding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Cool Projects
+
+```
+Dungeons Main Classes
+```
+https://github.com/sirvibegodlol/DungeonsMainClasses
+
+-Dungeons Main Classes is a SDK Header file for use in Minecraft Dungeons Modding. It will allow you to call functions and more within Unreal Engine
+
+
+```
+TABZ Launcher
+```
+https://github.com/sirvibegodlol/tabzLauncher
+
+-TABZ Launcher is a Downloading/Updating launcher for Totally Accurate Zombielator
