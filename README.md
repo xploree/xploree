@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I am Nick
+### I am Nick
 
 A **CSharp/C++ Developer** who works on **Desktop Applications and tools for Modding**
 
