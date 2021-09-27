@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⚡ I am Nick
+#####I am Nick
 
-A C#/C++ Developer who works on Desktop Applications and tools for Modding
+A **C#/C++ Developer** who works on **Desktop Applications and tools for Modding**
 
-# Cool Projects
+## Cool Projects
 
 ```
 Dungeons Main Classes
